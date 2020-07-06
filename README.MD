@@ -24,7 +24,7 @@
 > When sending the form and all the fields are correctly validated, an alert window should appear with the message:  "__Successfully sent!__"  and in the console a JSON object with all the form data.
 
 ### Design
-[Figma - Contact Form]('https://www.figma.com/file/dJ9NtNWZl8pivj3ZTGhWSt/Contact-Form-share?node-id=0%3A1')
+> [Figma - Contact Form](https://www.figma.com/file/dJ9NtNWZl8pivj3ZTGhWSt/Contact-Form-share?node-id=0%3A1)
 
 ### Time
 > Max. 3 days
