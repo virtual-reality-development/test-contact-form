@@ -2,13 +2,14 @@
 
 ### Requirements
 
-``` 
+```
 · HTML5
-· CSS3 / Responsive
+· CSS3 / Responsive / Bootstrap (or any CSS Framework)
 · VueJs and/or with Vanilla JavaScript
 · Client-Side validation
 · Upload the result to your repository
-``` 
+· Time: max. 3 days
+```
 
 ### The contact form should have at least the following fields
 ``` 
@@ -25,9 +26,6 @@
 
 ### Design
 > [Figma - Contact Form](https://www.figma.com/file/dJ9NtNWZl8pivj3ZTGhWSt/Contact-Form-share?node-id=0%3A1)
-
-### Time
-> Max. 3 days
 
 ---
 
