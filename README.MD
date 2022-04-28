@@ -17,7 +17,7 @@
 · Email (Required) + custom regex validation
 · Phone (Optional)
 · Message (Required)
-· Confirm Privacy Policy (Required)
+· Confirm Policies (Required)
 · Button to send form
 ```
 
